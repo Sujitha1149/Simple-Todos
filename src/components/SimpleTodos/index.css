@@ -1,0 +1,25 @@
+.bg-container {
+  background-color: #ffc2a0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.todo-container {
+  background-color: #ffffff;
+  padding: 40px;
+  padding-left: 60px;
+  padding-right: 60px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+}
+.heading {
+  color: #ff8542;
+  font-size: 23px;
+  font-weight: bold;
+  text-align: center;
+}
